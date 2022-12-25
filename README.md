@@ -1,24 +1,22 @@
-# cuaca
+<p align="center">
+  <h1 align="center">
+    Indonesia Weather Forecast <br>
+  </h1>
+</p>
 
-## Project setup
-```
-npm install
-```
+<p align="center">
+  live demo here <a href='https://cuacaidn.web.app'>https://cuacaidn.web.app</a>
+</p>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Stack
+- [x] VueJs 3
+- [x] Tailwind 3
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Setup
+ 1. git clone `https://github.com/korospace/cuaca-idn.git`
+ 2. npm install
+ 3. npm run serve
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Preview
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="./src/assets/images/priview1.png">
